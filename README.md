@@ -1,6 +1,6 @@
 # nodejs , firebase 를 이용한 트위터
 
-gmdmsdud.github.io/nwitter
+https://gmdmsdud.github.io/nwitter
 
 
 React  Node.js  Firebase 를 이용하여
