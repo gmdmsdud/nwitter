@@ -3,7 +3,7 @@
 gmdmsdud.github.io/nwitter
 
 
-React node.js firebase 를 이용하여
+React Node.js Firebase 를 이용하여
 로그인, 트윗작성, 수정, 삭제 등 리얼타임CRUD를 구현했습니다.
 
 자신의 이메일 또는 Google 및 Github 로그인을 사용하여 가입할수 있습니다.
