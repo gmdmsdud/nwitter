@@ -18,8 +18,11 @@ React  Node.js  Firebase 를 이용하여
 https://user-images.githubusercontent.com/110389737/201513224-21344955-64e6-49bf-ac5e-c2d7fa60ef7d.mp4
 
 
-각각 로그인 화면입니다. 리얼타임 CRUD를 구현했습니다
-로그인후 서로 채팅하는 화면입니다
+각각 로그인 화면입니다. 
+
+리얼타임 CRUD를 구현했습니다.
+
+로그인후 서로 채팅하는 화면입니다.
 
 ### 실습후기
 
