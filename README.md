@@ -20,5 +20,7 @@ https://user-images.githubusercontent.com/110389737/201513224-21344955-64e6-49bf
 
 ### 실습후기
 
-이 실습을 통해서 react 컴포넌트 만드는법, React Hooks를 이용한 state를 관리하는법, html, css, github 등을 배웠습니다.
+이 실습을 통해서 react 컴포넌트 만드는법, React Hooks를 이용한 state를 관리하는법,
+
+html, css, github 등을 배웠습니다.
 
